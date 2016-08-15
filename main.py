@@ -1,3 +1,6 @@
+""" This is a simple game of rock paper and scissors.
+"""
+
 import random
 play_again = 1
 
