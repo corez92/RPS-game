@@ -1,4 +1,5 @@
 """ This is a simple game of rock paper and scissors.
+By Corez!
 """
 
 import random
