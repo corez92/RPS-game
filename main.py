@@ -19,9 +19,9 @@ while play_again == 1:
     
     if computer_choice == human_choice:
         print("It's a tie!")
-    print("===")
+    print("====")
     try:
         play_again = input("Do you wish to play again? Type 1 for Yes and anything else for No: ")
     except NameError:
         break
-    print("===")
+    print("====")
